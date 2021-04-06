@@ -5,7 +5,7 @@
       "url": ".nojekyll"
     },
     {
-      "hash": "sha256-8aM9R9K90X6h+KPDW4OzrEh071mAs7dvAQxjBxAZQAc=",
+      "hash": "sha256-SO\/fuIIWUxoIu1OABrOpK5n\/AvzxJcg+0H3PT1eutAE=",
       "url": "css\/app.css"
     },
     {
@@ -61,11 +61,11 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-qumYww5dptgv4xs9XEyAFYQx92v+GcQKKBgaz59oSKE=",
+      "hash": "sha256-GDgXJkFJTi8lJFKyjMidu9UZzt1ZWyV+KF1olKRGrZw=",
       "url": "index.html"
     },
     {
-      "hash": "sha256-fyZMDiBn5yEQ5YBAxUYi54xEtOU8mIFZOIbOkAcQ5LE=",
+      "hash": "sha256-7LZKFlkQHPiyuFeUbAEOm0b9mVlOO7\/pYnhA2uF5PUA=",
       "url": "manifest.json"
     },
     {
@@ -165,7 +165,7 @@
       "url": "_framework\/System.IO.Pipelines.dll"
     },
     {
-      "hash": "sha256-QhJIVnjUg6jXmDDLgDJ0a0r2vLDsYmkW5bkLgj41XZQ=",
+      "hash": "sha256-r6gTpWQ7Cbflh4QuyIGkQn\/\/ak563MyV0EacRh5XZgI=",
       "url": "_framework\/SwissArmyKnife.dll"
     },
     {
@@ -261,11 +261,11 @@
       "url": "_framework\/System.Text.Json.dll"
     },
     {
-      "hash": "sha256-O2cnRRtdCucj3xgb2\/QgdovNXD2qiIcJFDmaoMW2CN8=",
+      "hash": "sha256-KwIhDj2pl8bc9PYFs7h1VQOGNXY4y8WhmqBUmv5n9Ns=",
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-pUDSF84OPiin7IKDeHPBNEZwDsGrnfks12qs9MbqgSA=",
+      "hash": "sha256-d+C8OzIF+NpuWwkEcg1h4UjeuwZY99tylowGWDTusc4=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -273,5 +273,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "5aNL8+Iy"
+  "version": "2uZhtYyY"
 };
