@@ -53,6 +53,10 @@
       "url": "css\/open-iconic\/README.md"
     },
     {
+      "hash": "sha256-Vto6R0ERDkZxHme\/iB+5nSBCfl4lo29q7uxKGFDIcxM=",
+      "url": "decode.js"
+    },
+    {
       "hash": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
       "url": "favicon.ico"
     },
@@ -61,7 +65,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-iEHwaJ3i2SAaUKjQbLRCxTXqJZ1gY2ed3rGBhBcjBwg=",
+      "hash": "sha256-u4wJ1wke8UH+uqfRwzYfvT3Pj4gfkc5HGxlykIsAYcg=",
       "url": "index.html"
     },
     {
@@ -273,5 +277,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "G01kb1xg"
+  "version": "IL6OqxxG"
 };
