@@ -22,10 +22,10 @@
       "Microsoft.Extensions.Primitives.dll": "sha256-32yXMbcCMbfUq7vtlIPput8uO7SZK8E9m3V8EXMScBc=",
       "Microsoft.JSInterop.dll": "sha256-NqdlYEdjT55qZFNijt+KWXIa7ReKisEqoY2NhNFA7Wo=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-uUEihv0ckR\/y+ZrbS\/hxKIyLU+K+qYe6z1nc63kR\/iQ=",
-      "Radzen.Blazor.dll": "sha256-AOru+098G8tWmrsPpY0Q8K4W2OhV3+D+sFedGLk3J2Q=",
+      "Radzen.Blazor.dll": "sha256-MJX8GF9YcPb4VkcgtuluWtwwj\/E+B9jvc3gsp6b59W0=",
       "System.IO.Pipelines.dll": "sha256-qZYTUS+ga7CydtH54fYPbehFCvx3B49I74G8dxreTog=",
-      "System.Linq.Dynamic.Core.dll": "sha256-6fgcEs5ZWouWq2\/87w\/jArctZIMLDybssmmmICQJeuk=",
-      "SwissArmyKnife.dll": "sha256-eFpGwhUsB1aQH7tPOb6I9vUCx+CG\/71l7wKan4EEWjI=",
+      "System.Linq.Dynamic.Core.dll": "sha256-Rc1LqEvNcVetATq6wDtxN\/niwcv5K7vb1SI83F8MdYk=",
+      "SwissArmyKnife.dll": "sha256-hzm5y+3nQXnzcjKEH+fyQ6ecTkq8M+Sj7RVKS+MQMKc=",
       "Microsoft.CSharp.dll": "sha256-vCY77Fsf2WyQtb8Af+YREk4nZ0RYywg6CaSPZ+6Y\/sM=",
       "System.Collections.Concurrent.dll": "sha256-KAz8g9NaQeg9vLJU3BibWx0kNp3QLKgwABQbJADYRpo=",
       "System.Collections.Immutable.dll": "sha256-Mq6nZo4hFeq\/oHfcC63nf3aQlT1mGKII1t8TYKhpc5M=",
@@ -36,7 +36,7 @@
       "System.ComponentModel.Primitives.dll": "sha256-8kz4jMiSB6C1DZ5FmLnVFXxnHMiqm+uPtwJCcI5214w=",
       "System.ComponentModel.TypeConverter.dll": "sha256-qmlLKqiHO4ERmljNb4dMiG5+5jKbYtuZeaVLpdhJi9k=",
       "System.ComponentModel.dll": "sha256-pY3sJoWWONDSSb4Itaccg9nszIJ9qgKqcMgvbKhZDVI=",
-      "System.Console.dll": "sha256-phF1FU0YtGd19DxUJI1ncUpAQ9kc6i57uUQ9DxtumYM=",
+      "System.Console.dll": "sha256-wiG0hPrThy7wFUXUHqgjOXgwlqXJou9ygz0qMj87Oig=",
       "System.Diagnostics.TraceSource.dll": "sha256-ijkrbhmkmvoKOQtsXwSAXE33kIDGaVeEA8m\/UTVvFjY=",
       "System.IO.FileSystem.dll": "sha256-+Usm9cqHEVsg+JdhtfWpMFaBmsmfKBpSRcIvzsMWRAo=",
       "System.Linq.Expressions.dll": "sha256-hNtfTUs8gcNCLY4IlbvaRiqYq4ELW\/Hsdlu1bw+QP7o=",
@@ -59,10 +59,10 @@
       "System.Text.Json.dll": "sha256-+k6Ivy88sd\/3PiBbjx+OYYqFnvDLl40BoWVOhDLQbB8=",
       "System.Text.RegularExpressions.dll": "sha256-vkRVWvD9M5bAUnH0qmJZmuDB2t3q5ZmEUixJYpfd7co=",
       "System.Web.HttpUtility.dll": "sha256-v3iDEOYi4AlEeKtx3i99gXl4+QJG0L+RTRIXfx8Mv00=",
-      "System.Private.CoreLib.dll": "sha256-RPEZqJu3HLOaOJjohGVNzgEiSbVI8e3kCLxXSDrnDO4="
+      "System.Private.CoreLib.dll": "sha256-0vMBhnHROg8qnIVWXrfhBHCKMD51dKKZe\/L0AodHY14="
     },
     "lazyAssembly": {
-      "RadzenComponents.dll": "sha256-BUwmPop7gr0t9aTDdAz6YfQRo9t+e6ioyZXbT8CWqIc="
+      "RadzenComponents.dll": "sha256-NTPEtmYbIqW0WEVE8viin2wKSfvGnAZQLJu+qplqpbU="
     },
     "pdb": null,
     "runtime": {
